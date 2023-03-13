@@ -16,7 +16,7 @@ Doutorando em Gestão da Informação;<br>Mestre em Ciência, Gestão e Tecnolog
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.legiaodosherois.com.br%2F2022%2Fizuku-midoriya-my-hero-academia-tudo-sobre.html&psig=AOvVaw0bt0sh6yW0MW4HbjhOyK1U&ust=1678834251422000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj-pIv_2f0CFQAAAAAdAAAAABAE" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.legiaodosherois.com.br%2F2022%2Fizuku-midoriya-my-hero-academia-tudo-sobre.html&psig=AOvVaw0bt0sh6yW0MW4HbjhOyK1U&ust=1678834251422000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj-pIv_2f0CFQAAAAAdAAAAABAE" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucas231090&icon=0&color=0)](https://visitcount.itsvg.in)
