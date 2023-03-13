@@ -11,7 +11,8 @@ Doutorando em Gestão da Informação;<br>Mestre em Ciência, Gestão e Tecnolog
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucas231090&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas231090&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#🌎
+---
+#🌎**Where is my code?**
 <img src="https://raw.githubusercontent.com/lowlighter/metrics/2d6c58ad4105f11edd8a65cc275cdac2651576b5/metrics.plugin.stargazers.worldmap.svg" width="512px"/>
 
 
