@@ -15,7 +15,7 @@ Doutorando em Gestão da Informação;<br>Mestre em Ciência, Gestão e Tecnolog
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+### Nice to meet you!
 <img src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2022/09/legiao_rBnkI1KPF79V.jpg.webp" width="512px"/>
 
 ---
