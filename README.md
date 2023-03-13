@@ -12,7 +12,7 @@ Doutorando em Gestão da Informação;<br>Mestre em Ciência, Gestão e Tecnolog
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas231090&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #🌎
-<img src="[https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2022/09/legiao_rBnkI1KPF79V.jpg.webp](https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.stargazers.worldmap.svg)" width="512px"/>
+<img src="[[https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2022/09/legiao_rBnkI1KPF79V.jpg.webp](https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.stargazers.worldmap.svg)](https://raw.githubusercontent.com/lowlighter/metrics/2d6c58ad4105f11edd8a65cc275cdac2651576b5/metrics.plugin.stargazers.worldmap.svg)" width="512px"/>
 
 
 ### ✍️ Random Dev Quote
