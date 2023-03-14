@@ -15,6 +15,8 @@ Doutorando em Gestão da Informação;<br>Mestre em Ciência, Gestão e Tecnolog
 ---
 <img src="https://raw.githubusercontent.com/lowlighter/metrics/2d6c58ad4105f11edd8a65cc275cdac2651576b5/metrics.plugin.stargazers.worldmap.svg" width="512px"/>
 ---
+#🌎**Contribution map**
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
