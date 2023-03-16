@@ -1,5 +1,5 @@
-# 💫 About Me:
-Doutorando em Gestão da Informação;<br>Mestre em Ciência, Gestão e Tecnologia da Informação;<br>Analista de Sistemas;<br>Dev;<br>Professor.<br>
+# 👨‍💻 About Me:
+phD Student in Management Information at UFPR;<br>Master's degree in science, management and information technology;<br>;<br>software engineer;<br>Teacher of the professional course at SEED/PR<br> Professor of Data Science at MBA-USP/Pecege
 
 
 ## 🌐 Socials:
