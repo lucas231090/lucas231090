@@ -1,5 +1,5 @@
 # 👨‍💻 🚀About Me:
-🎓phD Student in Management Information at UFPR;<br>📝 Master's degree in science, management and information technology;<br>;<br>💻 software engineer part time;<br>👨‍🏫 Teacher of the professional course at SEED/PR part time<br>🏫 Professor of Data Science at MBA-USP/Pecege part time.
+🎓phD Student in Management Information at UFPR;<br>📝 Master's degree in science, management and information technology;<br>💻 software engineer part time;<br>👨‍🏫 Teacher of the professional course at SEED/PR part time;<br>🏫 Professor of Data Science at MBA-USP/Pecege part time.
 
 
 ## 🌐 Socials:
