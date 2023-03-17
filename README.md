@@ -24,7 +24,7 @@
 
 ---
 **visitors of the month:** 
-[![](https://visitcount.itsvg.in/api?id=lucas231090&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=lucas231090&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
