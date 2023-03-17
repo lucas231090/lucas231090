@@ -23,7 +23,7 @@
 <img src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2022/09/legiao_rBnkI1KPF79V.jpg.webp" width="512px"/>
 
 ---
-**visitors of the month:** 
+ 
 [![](https://visitcount.itsvg.in/api?id=lucas231090&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 ---
