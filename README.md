@@ -1,5 +1,7 @@
 # 👨‍💻 🚀About Me:
-🎓phD Student in Management Information at UFPR;<br>📝 Master's degree in Science, Management and Information Technology;<br>💻 software engineer part time;<br>👨‍🏫 Teacher at SEED/PR part time;<br>🏫 Professor of Data Science at MBA-USP/Pecege part time.
+🎓phD Student in Management Information at UFPR;<br>📝 Master's degree in Science, Management and Information Technology;<br>👨‍🏫 Teacher at SEED/PR part time;<br>🏫 Professor of Data Science at MBA-USP/Pecege part time.
+
+<!-- <br>💻 software engineer part time; -->
 
 
 ## 🌐 Socials:
@@ -10,11 +12,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=lucas231090&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucas231090&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas231090&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ## 🌎Countries where my code has contributed in some way to software development
 ---
 <img src="https://raw.githubusercontent.com/lowlighter/metrics/2d6c58ad4105f11edd8a65cc275cdac2651576b5/metrics.plugin.stargazers.worldmap.svg" width="512px"/>
-
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
