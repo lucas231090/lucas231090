@@ -1,6 +1,7 @@
 # 👨‍💻 🚀About Me:
 🎓phD in Management Information at UFPR;
 <br>📝 Master's degree in Science, Management and Information Technology at UFPR;
+<br>📦 CTO on MyPostal
 <br>👨‍🏫 Teacher at SEED/PR part time; 
 <br>💻 Software engineer part time;
 <br>🏫Professor of Data Science at MBA-USP/Pecege part time.
