@@ -2,7 +2,7 @@
 🎓phD in Management Information at UFPR;
 <br>📝 Master's degree in Science, Management and Information Technology at UFPR;
 <br>📝 Professor of Data Science at MBA-USP/Pecege part time.
-<br>📝 Professor at USC - UniSantaCruz;
+<br>📝 Professor of Software Engineering at MBA-USP/Pecege part time.
 <br>💻 Systems Analyst at Parque Tecnológico Itaipu;
 <br>📦 ex-CTO on MyPostal
 <br>👨‍🏫 ex-Teacher at SEED/PR part time; 
@@ -28,16 +28,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### Steam Stats
-Conta Principal:
-
-![Main](https://steam-stat.vercel.app/api?profileName=o-neymarjr)
-
-Conta Secundária:
-
-![Secondary](https://steam-stat.vercel.app/api?profileName=oratinhoindiano)
-
 
 ### See you soon!!!!
 <img src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2022/09/legiao_rBnkI1KPF79V.jpg.webp" width="300px"/>
