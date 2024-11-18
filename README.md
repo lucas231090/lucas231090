@@ -2,6 +2,7 @@
 🎓PhD in Management Information from UFPR;
 <br>📝 Master's degree in Science, Management and Information Technology at UFPR;
 <br>📝 Professor of Data Science at MBA-USP/Pecege part time.
+<br>📝 Professor of Software Engineer at MBA-USP/Pecege part time.
 <br>📝 Professor of Software Engineering at MBA-USP/Pecege part time.
 <br>💻 Systems Analyst at Parque Tecnológico Itaipu;
 <br>📦 ex-CTO on MyPostal
