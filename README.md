@@ -4,7 +4,7 @@
 <br>📝 Professor of Data Science at MBA-USP/Pecege part time.
 <br>📝 Professor of Software Engineering at MBA-USP/Pecege part time.
 <br>💻 Systems Analyst at Parque Tecnológico Itaipu;
-<br>📦 ex-CTO on MyPostal
+<br>📦 ex-CTO on MyPostalServices
 <br>👨‍🏫 ex-Teacher at SEED/PR part time; 
 <br>💻 Software engineer part time;
 
